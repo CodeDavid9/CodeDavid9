@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeDavid9
 - 👀 I’m interested in Phyton/Scurety
-- 🌱 I’m currently learning Phyton
+- 🌱 I’m currently learning Python
 
 
 <!---
